@@ -38,7 +38,7 @@ const Widget = ({ type }) => {
           <ShoppingCartOutlinedIcon
             className="icon"
             style={{
-              backgroundColor: "rgba(218, 165, 32, 0.2)",
+              backgroundColor: "rgba(217, 165, 32, 0.2)",
               color: "goldenrod",
             }}
           />
